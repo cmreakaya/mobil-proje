@@ -145,7 +145,7 @@ export default function Bateri({navigation}) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#27374D',
+    backgroundColor: '#561C24',
   },
   buttonContainer: {
     flexDirection: 'row',
@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
 
   },
   button: {
-    backgroundColor: '#526D82',
+    backgroundColor: '#6D2932',
     borderRadius: 30,
     height: 45,
     alignItems: 'center',
